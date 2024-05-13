@@ -3,9 +3,9 @@
 ![Splash screen](demo/demo.gif)
 
 It's the year 2101. Corporations have taken over the world.
-The only way to be free is to join a pirate crew and start plundering the galaxy. The only mean of survival is to play basketball.
+The only way to be free is to join a pirate crew and start plundering the galaxy. The only means of survival is to play basketball.
 
-Now it's your turn to go out there and make a name for yourself. Create your crew and start wondering the galaxy in search of worthy basketball opponents.
+Now it's your turn to go out there and make a name for yourself. Create your crew and start wandering the galaxy in search of worthy basketball opponents.
 
 ## Just try it out!
 
